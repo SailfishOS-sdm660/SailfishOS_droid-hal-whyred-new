@@ -1,10 +1,10 @@
 # Reference: dhd/droid-hal-device.inc
 
-%define vendor oneplus
-%define device cheeseburger
+%define vendor xiaomi
+%define device whyred
 
-%define vendor_pretty OnePlus
-%define device_pretty OnePlus 5
+%define vendor_pretty Xiaomi
+%define device_pretty Xiaomi Redmi Note 5 Pro
 
 %define droid_target_aarch64 1
 %define enable_kernel_update 1
